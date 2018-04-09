@@ -1,0 +1,9 @@
+.*
+!.gitignore
+build.sbt
+assignment.sbt
+lib_managed/**
+src/main/scala/common/**
+project/**
+submission/**
+target/**
